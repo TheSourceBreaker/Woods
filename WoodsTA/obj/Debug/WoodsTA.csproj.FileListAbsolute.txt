@@ -1,0 +1,7 @@
+C:\Users\wtfpa\source\repos\WoodsTA\WoodsTA\bin\Debug\WoodsTA.exe.config
+C:\Users\wtfpa\source\repos\WoodsTA\WoodsTA\bin\Debug\WoodsTA.exe
+C:\Users\wtfpa\source\repos\WoodsTA\WoodsTA\bin\Debug\WoodsTA.pdb
+C:\Users\wtfpa\source\repos\WoodsTA\WoodsTA\obj\Debug\WoodsTA.csprojAssemblyReference.cache
+C:\Users\wtfpa\source\repos\WoodsTA\WoodsTA\obj\Debug\WoodsTA.csproj.CoreCompileInputs.cache
+C:\Users\wtfpa\source\repos\WoodsTA\WoodsTA\obj\Debug\WoodsTA.exe
+C:\Users\wtfpa\source\repos\WoodsTA\WoodsTA\obj\Debug\WoodsTA.pdb
